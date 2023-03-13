@@ -1,0 +1,49 @@
+* {
+  margin: 8px 20px 7px;
+}
+.heading {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.twitter {
+  width: 30px;
+  height: 30px;
+}
+.icon {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: white;
+  width: 75%;
+  height: 35px;
+  border-bottom-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  border-top-left-radius: 7px;
+}
+.email {
+  width: 75%;
+  height: 45px;
+}
+.or {
+  display: flex;
+  justify-content: center;
+}
+.next {
+  background-color: black;
+  color: white;
+  font-size: 15px;
+}
+.password {
+  font-weight: 700;
+}
+.apple {
+  font-weight: 700;
+}
+.last {
+  color: grey;
+}
+.sign {
+  color: rgb(29, 119, 255);
+}
